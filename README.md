@@ -3,7 +3,7 @@
 Este projeto foi elaborado junto à DIO, uma empresa de cursos tecnológicos bem conceituada.<br>
 Com a base do projeto, desenvolvi novas funcionalidades e personalizei o projeto em geral.
 <br>
-Este projeto consiste em um jogo onde o usuário responde as perguntas e no final descobre se tem vocação para ser herói ou vilão. Após o resultado, o usuário tem a opção de jogar novamente.
+Este projeto consiste em um jogo onde o usuário responde as perguntas e no final descobre se teria vocação para ser herói ou vilão. Após o resultado, o usuário tem a opção de jogar novamente.
 #
 Para desenvolver este projeto foram usadas as tecnologias: 
 <br>
